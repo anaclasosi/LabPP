@@ -1,6 +1,6 @@
 /*
 *Arquivo: quaisDiv
-*Data de criação: 24/nov/2022
+*Data de criação: 04/dez/2022
 *Autor: Ana Clara Sousa Silva
 *Básico 2
 */
