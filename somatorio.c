@@ -1,3 +1,10 @@
+/*
+*Arquivo: somatorio
+*Data de criação: 04/dez/2022
+*Autor: Ana Clara Sousa Silva
+*Básico 3
+*/
+
 #include <stdio.h>
 
 float soma(float * vetor, int tamanho);
